@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Masum Billah
+# 👋 Hi, I'm a Software Engineer
 
-🚀 Full Stack Developer | AI Enthusiast | Microservices Architect  
+🚀 Backend Developer | Deep Learning | Microservices  
 📍 Based in Bangladesh | 🌐 Open to global opportunities
 
 ---
@@ -17,13 +17,13 @@ With a strong foundation in **clean architecture**, **scalable backend systems**
 
 ### 💻 Languages & Frameworks
 - **C# (.NET Core, ASP.NET Core)**
-- **TypeScript / JavaScript (Angular)**
-- **Python (TensorFlow, scripting, automation)**
+- **TypeScript (Angular)**
+- **Python (TensorFlow, scripting, FastAPI)**
 
 ### 🧠 AI / Machine Learning
 - TensorFlow, Keras
 - Model training & fine-tuning
-- Speech and text processing (e.g., Quran recitation analysis)
+- Image Detection (e.g. Human Emotions)
 
 ### 🧩 Microservices & Architecture
 - RESTful APIs
@@ -31,23 +31,23 @@ With a strong foundation in **clean architecture**, **scalable backend systems**
 - Caching (Redis)
 - Containerization (Docker)
 
-### 🗄️ Databases
-- SQL Server / PostgreSQL
-- Dapper / EF Core
+### 🗄️ Databases and Libraries
+- SQL Server | Postgres
+- Dapper | EF Core
 
 ### 🛠️ Tools & Practices
 - Git & GitHub
-- CI/CD (GitLab CI, Azure DevOps)
-- Postman, Swagger, Mapster
-- Agile development, code reviews
+- CI/CD (GitLab CI)
+- Postman | Swagger
+- Agile development, code reviews, bug fixing
 
 ---
 
 ## 🔬 Projects & Highlights
 
-- 🔹 **FoodiBD** – Scalable food delivery system using .NET Core, Angular, RabbitMQ, and Redis.
-- 🔹 **IqraVerse** – AI-powered Quran learning platform with speech-to-text, built with .NET Core, Angular, and TensorFlow.
-- 🔹 **ERP System Modules** – Developed student and teacher management modules, reports with DevExpress.
+- 🔹 **Foodi** – Microservices and Scalable food delivery system using .NET Core, RPC, RabbitMQ, and Redis.
+- 🔹 **Image Classification** – AI-powered learning platform with emotion detect, built with Python and TensorFlow, deploy using FastAPI
+- 🔹 **Education Management System** – Developed student and teacher management modules, reports with DevExpress.
 
 > Explore my pinned repositories below 👇 for source code, demos, and more details!
 
@@ -63,8 +63,8 @@ With a strong foundation in **clean architecture**, **scalable backend systems**
 
 ## 📫 Let's Connect!
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/masum-billah/)
-- 📧 Email: masum.billah.dev@gmail.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mdkmscsepust/)
+- 📧 Email: mdkmscsepust@gmail.com
 - 💡 Portfolio: Coming Soon!
 
 ---
