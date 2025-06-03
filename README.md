@@ -50,9 +50,9 @@ I'm a passionate software engineer with hands-on experience in **.NET Core**, **
 
 ## 🔬 Projects & Highlights
 
-🔹 **Foodi** – A food delivery system using Microservices, .NET Core, RPC, RabbitMQ, and Redis.
-🔹 **Image Classification** – AI-powered learning platform with emotion detect, built with Python and TensorFlow, deploy using FastAPI
-🔹 **Education Management System** – Developed student and teacher management modules, reports with DevExpress.
+- **Foodi** – A food delivery system using Microservices, .NET Core, RPC, RabbitMQ, and Redis.
+- **Image Classification** – AI-powered learning platform with emotion detect, built with Python and TensorFlow, deploy using FastAPI
+- **Education Management System** – Developed student and teacher management modules, reports with DevExpress.
 
 ---
 
