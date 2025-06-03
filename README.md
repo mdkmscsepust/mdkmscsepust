@@ -45,7 +45,7 @@ With a strong foundation in **clean architecture**, **scalable backend systems**
 
 ## 🔬 Projects & Highlights
 
-- 🔹 **Foodi** – Microservices and Scalable food delivery system using .NET Core, RPC, RabbitMQ, and Redis.
+- 🔹 **Foodi** – A food delivery system using Microservices, .NET Core, RPC, RabbitMQ, and Redis.
 - 🔹 **Image Classification** – AI-powered learning platform with emotion detect, built with Python and TensorFlow, deploy using FastAPI
 - 🔹 **Education Management System** – Developed student and teacher management modules, reports with DevExpress.
 
